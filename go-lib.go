@@ -3,7 +3,7 @@
  * File: go-lib.go
  */
 
-package lib
+package main
 
 import (
 	"fmt"
