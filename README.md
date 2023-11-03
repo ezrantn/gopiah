@@ -31,7 +31,7 @@ func main() {
 If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome!
 
 ## License
-This library is licensed under the MIT License. See the (https://github.com/umjiiii/gopiah/blob/main/LICENSE)[LICENSE] file for details.
+This library is licensed under the MIT License. See the [LICENSE](https://github.com/umjiiii/gopiah/blob/main/LICENSE) file for details.
 
 ## Author
 - umjiii
