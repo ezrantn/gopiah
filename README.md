@@ -23,7 +23,7 @@ import (
 
 func main() {
     number := 1234567
-    rupiah := ConvertToRupiah(number)
+    rupiah := gopiah.ConvertToRupiah(number)
     fmt.Println(rupiah) // Output: "Rp. 1.234.567,00"
 }
 ```
