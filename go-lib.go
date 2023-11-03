@@ -1,9 +1,4 @@
-/**
- * Author: Ezra Natanael
- * File: go-lib.go
- */
-
-package main
+package gopiah
 
 import (
 	"fmt"
