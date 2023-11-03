@@ -1,9 +1,4 @@
-/**
- * Author: Ezra Natanael
- * File: init.go
- */
-
-package main
+package gopiah
 
 import (
 	"fmt"
