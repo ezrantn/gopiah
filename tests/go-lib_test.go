@@ -1,7 +1,7 @@
 package tests
 
 import (
-	"github.com/umjiiii/gopiah.git/lib"
+	"github.com/umjiiii/gopiah/lib"
 	"testing"
 )
 
