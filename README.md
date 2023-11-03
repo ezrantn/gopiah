@@ -12,7 +12,7 @@ go get github.com/umjiiii/gopiah
 
 ## Usage
 
-To convert a number into Rupiah currency format, you can use the ConvertToRupiah function:
+To convert a number into Rupiah currency format, you can use the gopiah.ConvertToRupiah function:
 ```go
 package main
 
@@ -31,11 +31,9 @@ func main() {
 If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome!
 
 ## License
-This library is licensed under the MIT License. See the LICENSE file for details.
+This library is licensed under the MIT License. See the (https://github.com/umjiiii/gopiah/blob/main/LICENSE)[LICENSE] file for details.
 
 ## Author
 - umjiii
 
 Enjoy using this library to format your numbers into Rupiah currency! If you have any questions or need assistance, don't hesitate to reach out to the author or the community.
-
-
