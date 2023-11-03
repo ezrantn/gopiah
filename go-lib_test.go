@@ -1,7 +1,6 @@
-package tests_test
+package main
 
 import (
-	"gopiah/lib"
 	"testing"
 )
 
@@ -16,7 +15,7 @@ func TestConvertToRupiah(t *testing.T) {
 	}
 
 	for _, tc := range testCases {
-		result := lib.ConvertToRupiah(tc.input)
+		result := ConvertToRupiah(tc.input)
 		if result != tc.expected {
 			t.Errorf("For input %d, expected %s, but got %s", tc.input, tc.expected, result)
 		}
