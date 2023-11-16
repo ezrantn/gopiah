@@ -18,7 +18,7 @@ package main
 
 import (
     "fmt"
-    "github.com/umjiiii/gopiah"
+    "github.com/koala-alay/gopiah"
 )
 
 func main() {
