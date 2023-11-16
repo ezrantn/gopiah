@@ -7,7 +7,7 @@ This is a small Go library for converting numbers into Indonesian Rupiah (Rp) cu
 To use this library, you can import it into your Go project like this:
 
 ```shell
-go get github.com/umjiiii/gopiah
+go get github.com/koala-alay/gopiah
 ```
 
 ## Usage
