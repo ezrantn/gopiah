@@ -28,7 +28,7 @@ func main() {
 }
 ```
 ## Contributing
-If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome!
+If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome! 😀
 
 ## License
 This library is licensed under the MIT License. See the [LICENSE](https://github.com/thisdoraemon/gopiah/blob/main/LICENSE) file for details.
