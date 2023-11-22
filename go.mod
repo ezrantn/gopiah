@@ -1,3 +1,3 @@
-module github.com/koala-alay/gopiah
+module github.com/thisdoraemon/gopiah
 
 go 1.21.3
