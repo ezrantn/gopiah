@@ -34,6 +34,6 @@ If you find any issues or have suggestions for improvements, feel free to create
 This library is licensed under the MIT License. See the [LICENSE](https://github.com/thisdoraemon/gopiah/blob/main/LICENSE) file for details.
 
 ## Author
-- umjiiii
+- Doraemon
 
 Enjoy using this library to format your numbers into Rupiah currency! If you have any questions or need assistance, don't hesitate to reach out to the author or the community.
