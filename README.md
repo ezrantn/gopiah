@@ -7,7 +7,7 @@ This is a small Go library for converting numbers into Indonesian Rupiah (Rp) cu
 To use this library, you can import it into your Go project like this:
 
 ```shell
-go get github.com/koala-alay/gopiah
+go get github.com/thisdoraemon/gopiah
 ```
 
 ## Usage
@@ -18,7 +18,7 @@ package main
 
 import (
     "fmt"
-    "github.com/umjiiii/gopiah"
+    "github.com/thisdoraemon/gopiah"
 )
 
 func main() {
@@ -28,10 +28,10 @@ func main() {
 }
 ```
 ## Contributing
-If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome!
+If you find any issues or have suggestions for improvements, feel free to create a pull request or open an issue on the GitHub repository. Your contributions are welcome! 😀
 
 ## License
-This library is licensed under the MIT License. See the [LICENSE](https://github.com/umjiiii/gopiah/blob/main/LICENSE) file for details.
+This library is licensed under the MIT License. See the [LICENSE](https://github.com/thisdoraemon/gopiah/blob/main/LICENSE) file for details.
 
 ## Author
 - umjiiii
