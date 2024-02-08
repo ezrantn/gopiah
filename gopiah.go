@@ -1,7 +1,6 @@
 package gopiah
 
 import (
-	"fmt"
 	"strconv"
 	"strings"
 )
@@ -15,7 +14,7 @@ func reverseString(str []string) []string {
 }
 
 func ConvertToRupiah(number int) string {
-	tempNum := reverseString(strings.Split(fmt.Sprintf(strconv.Itoa(number)), ""))
+	tempNum := reverseString(strings.Split(strconv.Itoa(number), ""))
 	rupiah := ""
 
 	for i := 0; i < len(tempNum); i++ {
