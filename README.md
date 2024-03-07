@@ -1,6 +1,6 @@
 # Go Rupiah Currency Converter
 
-This is a small Go library for converting numbers into Indonesian Rupiah (Rp) currency format. It's a convenient tool for formatting monetary values in the Indonesian style, with thousands separators and decimal points.
+This is a small Go library for converting numbers into Indonesian Rupiah (Rp) currency format. It's a convenient tool for formatting monetary values in the Indonesian style, with thousands separators and decimal points. Remember that this return value is of type string.
 
 ## Installation
 
@@ -32,8 +32,3 @@ If you find any issues or have suggestions for improvements, feel free to create
 
 ## License
 This library is licensed under the MIT License. See the [LICENSE](https://github.com/ezrantn/gopiah/blob/main/LICENSE) file for details.
-
-## Author
-- Doraemon
-
-Enjoy using this library to format your numbers into Rupiah currency! If you have any questions or need assistance, don't hesitate to reach out to the author or the community.
