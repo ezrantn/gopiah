@@ -32,3 +32,5 @@ If you find any issues or have suggestions for improvements, feel free to create
 
 ## License
 This library is licensed under the MIT License. See the [LICENSE](https://github.com/ezrantn/gopiah/blob/main/LICENSE) file for details.
+
+*Made with ❤️ by Ezra Natanael*
