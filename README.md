@@ -1,4 +1,8 @@
-# Go Rupiah Currency Converter
+<p align="center">
+  <img src="./assets/gopiah.png" width="180" alt="Gopiah Logo" />
+</p>
+
+<p align="center">A small library to convert any number to <a href="https://en.wikipedia.org/wiki/Indonesian_rupiah#:~:text=The%20rupiah%20(symbol%3A%20Rp%3B,referring%20to%20rupiah%20in%20coins.">Indonesian Rupiah currency</a></p>
 
 This is a small Go library for converting numbers into Indonesian Rupiah (Rp) currency format. It's a convenient tool for formatting monetary values in the Indonesian style, with thousands separators and decimal points. Remember that this return value is of type string.
 
